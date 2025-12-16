@@ -7,7 +7,7 @@
 
 /* BODY – CHỮ TO TOÀN TRANG */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     background: #ffe6f2;
     color: #d63384;
     font-size: 20px;        /* 👈 CHỮ THƯỜNG */
@@ -394,6 +394,7 @@ footer {
     width: 90px;
     position: fixed;
     z-index: 999;
+
 
 
 
