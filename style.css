@@ -106,7 +106,7 @@ footer {
     text-align: center;
     padding: 25px 10px;
     margin-top: 50px;
-    font-family: 'Comic Sans MS', 'Poppins', cursive;
+    font-family: 'Be Vietnam', cursive;
 }
 
 .footer-title {
@@ -165,7 +165,7 @@ footer {
 .tab-title {
     color: #ff69b4;
     cursor: pointer;
-    font-size: 26px;
+    font-size: 24px;
     text-align: center;
     margin-top: 30px;
 }
@@ -297,7 +297,7 @@ footer {
 
 /* Chữ trong menu */
 .navbar a {
-    font-family: 'Comic Sans MS', 'Arial Rounded MT Bold', cursive;
+    font-family: 'Be Vietnam', cursive;
     font-size: 22px;
     color: #ffffff;
     text-decoration: none;
@@ -394,5 +394,6 @@ footer {
     width: 90px;
     position: fixed;
     z-index: 999;
+
 
 
