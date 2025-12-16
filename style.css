@@ -7,7 +7,7 @@
 
 /* BODY – CHỮ TO TOÀN TRANG */
 body {
-    font-family: Arial;
+    font-family: Times New Roman;
     background: #ffe6f2;
     color: #d63384;
     font-size: 20px;        /* 👈 CHỮ THƯỜNG */
@@ -106,7 +106,7 @@ footer {
     text-align: center;
     padding: 25px 10px;
     margin-top: 50px;
-    font-family: 'Be Vietnam', cursive;
+    font-family: 'Times New Roman';
 }
 
 .footer-title {
@@ -394,6 +394,7 @@ footer {
     width: 90px;
     position: fixed;
     z-index: 999;
+
 
 
 
